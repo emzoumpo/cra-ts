@@ -37,8 +37,6 @@ const App: FunctionComponent = () => {
     return () => darkThemeMatch.removeListener(switchTheme)
   }, [])
 
-  console.log('theme set to: ', theme)
-
   return (
     <ThemeProvider theme={theme === 'dark' ? DarkTheme : LightTheme}>
       <StyledApp>

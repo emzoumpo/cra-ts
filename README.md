@@ -1,4 +1,4 @@
-![Linting](https://github.com/emzoumpo/cra-ts/workflows/Node.js%20CI%20for%20Linting/badge.svg)
+![Node.js CI for Linting](https://github.com/emzoumpo/cra-ts/workflows/Node.js%20CI%20for%20Linting/badge.svg)
 
 ## Available Scripts
 
