@@ -1,3 +1,5 @@
+![Linting](https://github.com/emzoumpo/cra-ts/workflows/Node.js%20CI%20for%20Linting/badge.svg)
+
 ## Available Scripts
 
 In the project directory, you can run:
