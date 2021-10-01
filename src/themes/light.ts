@@ -2,10 +2,10 @@ import { Theme } from './types'
 
 const LightTheme: Theme = {
   textColors: {
-    primary: 'black',
+    primary: '#000000',
   },
   backgroundColors: {
-    primary: 'white',
+    primary: '#FFFFFF',
   },
 }
 
