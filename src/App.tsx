@@ -1,4 +1,4 @@
-import React, { FunctionComponent, useLayoutEffect, useState } from 'react'
+import { FunctionComponent, useLayoutEffect, useState } from 'react'
 import styled, {
   createGlobalStyle,
   ThemeProvider,
